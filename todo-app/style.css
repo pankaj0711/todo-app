@@ -1,0 +1,14 @@
+.first {
+    color:magenta;
+}
+.secound {
+    background-color: rgb(16, 215, 233);
+}
+.third {
+    font-size: 25px;
+    font-family: cursive;
+}
+
+* {
+    background-color: rgb(0, 255, 255);
+}
